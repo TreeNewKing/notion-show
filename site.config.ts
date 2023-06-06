@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: 'f2420e575ae74355966d3f1b54d02954',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: 'f2420e575ae74355966d3f1b54d02954',
+ // rootNotionSpaceId: 'f2420e575ae74355966d3f1b54d02954',
 
   // basic site info (required)
   name: 'TreeNewKing',
